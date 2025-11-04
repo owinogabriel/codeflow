@@ -46,9 +46,9 @@ export default function Hero() {
               <ChevronDown className="w-3 h-3 sm:w-4 sm:h-4 text-gray-400" />
             </div>
 
-            <div>
+            <div className="p-3 sm:4 relative h-full">
               {/* File Tabs */}
-              <div>
+              <div className="flex space-x-1 sm:space-x-2 sm:mb-4 overflow-x-auto">
                 <button className="px-3 py-2 backdrop-blur-sm text-xs sm:text-sm rounded-t-lg border bg-white/5 text-gray-300 transition-all duration-200 whitespace-nowrap">
                   App.jsx
                 </button>
