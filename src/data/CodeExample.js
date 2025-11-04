@@ -95,7 +95,7 @@ export const floatingCards = {
     contentColor: "text-blue-300",
     icon: "AI",
     title: "Smart Completion",
-    content: "AI-powered code suggestion in real-time",
+    content: "AI-powered code suggestions in real-time",
   },
   "Hero.jsx": {
     bgColor: "bg-purple-500/20",
@@ -104,7 +104,7 @@ export const floatingCards = {
     contentColor: "text-purple-300",
     icon: "⚡",
     title: "Auto Animation",
-    content: "Dynamic effects generated automatically",
+    content: "Dynamic typing effects generated automatically",
   },
   "Navbar.jsx": {
     bgColor: "bg-emerald-500/20",
