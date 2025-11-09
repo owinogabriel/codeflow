@@ -39,25 +39,25 @@ export default function Footer() {
             </p>
             <div className="flex justify-center sm:justify-start space-x-3 sm:space-x-4">
               <a
-                href="#"
+                href="https://x.com/LyonGabrie24988"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Twitter className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="https://github.com/owinogabriel/codeflow"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Github className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/leon-gabriel-82655b308/"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Linkedin className="w-5 h-5 sm:w-5 sm:h-5" />
               </a>
               <a
-                href="#"
+                href="mailto:owinogabrieel@gmail.com"
                 className="p-2 sm:p-2.5 bg-slate-800 rounded-lg hover:bg-slate-700 transition-colors duration-200"
               >
                 <Mail className="w-5 h-5 sm:w-5 sm:h-5" />
